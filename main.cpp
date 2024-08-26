@@ -4,9 +4,8 @@
     See https://en.wikipedia.org/wiki/Rubber_duck_debugging 
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
-    Edits made by:
     TODO: Elijah Babayemi -- to be added by student 1
-    TODO: <Add name of student 2 Here> -- to be added by student 2
+    TODO: <Giovanny Ortiz> -- to be added by student 2
     TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
  */
 #include <iostream>
@@ -25,7 +24,8 @@ int main() {
         cout << "                (__)     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
         cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << " \___/          `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "  ^^^  ~~~~~~~~~~~~~~~~~~ " << endl; // new line from student 2
     }
 
     return 0;
