@@ -22,7 +22,7 @@ int main() {
 
     for (int i = 0; i < ducknum; i++) { 
         cout << "                (__)     " << endl; // TODO: student 1 may change this line and may add additional lines immediately above
-        cout << "              <(* )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
+        cout << "              <(*  v)___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> //" << endl; // student 3(2) may change this line
         cout << " \___/          `----' " << endl; // TODO student 2 may change this line and may add lines below
         cout << "  ^^^  ~~~~~~~~~~~~~~~~~~ " << endl; // new line from student 2
