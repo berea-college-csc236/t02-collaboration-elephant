@@ -4,9 +4,9 @@
     See https://en.wikipedia.org/wiki/Rubber_duck_debugging 
     Original code and ASCII art by Dr. Jan Pearce, Berea College
 
-    TODO: Elijah Babayemi -- to be added by student 1
-    TODO: <Giovanny Ortiz> -- to be added by student 2
-    TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
+     Elijah Babayemi -- to be added by student 1
+     Giovanny Ortiz -- to be added by student 2
+     Dikshya Paudel -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
  */
 #include <iostream>
 using namespace std;
